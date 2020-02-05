@@ -1,0 +1,16 @@
+{ Using PSTWRITER 16.6.0 d001Oct-14-2019 at 16:05:59 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "USB1.3" ignored for USB1: SCHEMATIC1, PAGE1 (7.20, 5.40). Connecting pin to net "D+".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "USB1.2" ignored for USB1: SCHEMATIC1, PAGE1 (7.20, 5.40). Connecting pin to net "D-".
+#3 WARNING(ORCAP-36006): Part Name "STM32F103C8T6_LQFP-48_STM32F103C8T6" is renamed to "STM32F103C8T6_LQFP-48_STM32F103".
+#4 WARNING(ORCAP-36006): Part Name "USB_B_MINI_USB-MICRO-5P_USB_B_MICRO" is renamed to "USB_B_MINI_USB-MICRO-5P_USB_B_M".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\12566\DESKTOP\临时文件夹\SHT85温度传感器\DEMO测试板\allegro/pstchip.dat
+
+Loading... C:\USERS\12566\DESKTOP\临时文件夹\SHT85温度传感器\DEMO测试板\allegro/pstchip.dat
+
+Loading... C:\USERS\12566\DESKTOP\临时文件夹\SHT85温度传感器\DEMO测试板\allegro/pstxprt.dat
+
+Loading... C:\USERS\12566\DESKTOP\临时文件夹\SHT85温度传感器\DEMO测试板\allegro/pstxnet.dat
+packaging the design view...
